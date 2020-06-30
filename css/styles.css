@@ -1,0 +1,137 @@
+.footer {
+  background-color: #D1C4E9;
+  /* margin: 200px auto; */
+  padding: 20px 0px; }
+
+address {
+  font-size: 80%;
+  margin: 0px;
+  color: #0f0f0f; }
+
+body {
+  padding: 0px 0px 0px 0px;
+  z-index: 0; 
+}
+
+#first {
+  height: 20vh;
+  background-color: #1e73be;
+  color: white;
+}
+
+#second {
+  height: 40vh;
+  background-color: #1e73be;
+  color: white;
+}
+
+#footer1 {
+  height: 10vh;
+  background-color: #1e73be;
+  color: white;
+}
+
+#footer2 {
+  height: 10vh;
+  background-color: #1e73be;
+  color: white;
+}
+
+#second .rowtags {
+  font-size: 15px;
+}
+
+#second .rowarticlename {
+  margin-top: 2.5vh;
+  margin-bottom: 2.5vh;
+  font-size: 40px;
+  font-weight: 500;
+}
+
+#second .rowauthor {
+
+}
+
+#second .rowdetails {
+  margin-top: 1.2vh;
+}
+
+.navbar-toggler {
+  color: white;
+}
+
+#ieeesbm {
+  margin-top: 2vh;
+  height: 25vw;
+  width: 25vw;
+}
+
+#Navbar {
+  position: relative;
+  background-color: #1e73be;
+}
+
+.nav-item *{
+  color: white;
+}
+
+.demopadding {
+  margin-top: 1.5vh;
+  text-align:center;
+}
+
+.icon {
+	position:relative;
+	text-align:center;
+	width:0px;
+	height:0px;
+	padding:20px;
+	border-top-right-radius: 	20px;
+	border-top-left-radius: 	20px;
+	border-bottom-right-radius: 20px;
+	border-bottom-left-radius: 	20px; 
+	-moz-border-radius: 		20px 20px 20px 20px;
+	-webkit-border-radius: 		20px 20px 20px 20px;
+	-khtml-border-radius: 		20px 20px 20px 20px; 	
+	color:#FFFFFF;
+}
+.icon i {
+	font-size:20px;
+	position:absolute;
+	left:9px;
+	top:10px;
+}
+.icon.social {
+	float:left;
+	margin:0 7px 0 0;
+	cursor:pointer;
+	background:white ;
+	color: #1e73be;
+	transition: 0.5s;
+	-moz-transition: 0.5s;
+	-webkit-transition: 0.5s;
+	-o-transition: 0.5s; 	
+}
+.icon.social:hover {
+	background:#1e73be ;
+	color:white;
+	transition: 0.5s;
+	-moz-transition: 0.5s;
+	-webkit-transition: 0.5s;
+	-o-transition: 0.5s;
+	-webkit-filter:	drop-shadow(0 1px 10px rgba(0,0,0,.8));
+	-moz-filter: 	drop-shadow(0 1px 10px rgba(0,0,0,.8));
+	-ms-filter: 		drop-shadow(0 1px 10px rgba(0,0,0,.8));
+	-o-filter: 		drop-shadow(0 1px 10px rgba(0,0,0,.8));
+	filter: 			drop-shadow(0 1px 10px rgba(0,0,0,.8));	 	
+}
+.icon.social.fb i {
+	left:13px;
+	top:10px;
+}
+.icon.social.tw i {
+	left:11px;
+}
+.icon.social.in i {
+	left:11px;
+}
